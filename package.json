@@ -13,8 +13,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://github.com/rokibulislaam/detritus-client-monorepo",
   "repository": {
-    "url": "https://github.com/rokibulislaam/detritus-client-monorepo.git"
+    "url": "https://github.com/rokibulislaam/detritus-client-monorepo.git",
+    "type": "git"
   },
   "publishConfig": {
     "access": "public",
