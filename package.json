@@ -4,7 +4,6 @@
   "description": "",
   "main": "packages/detritus-client/lib/index.js",
   "types": "packages/detritus-client/lib/index.d.ts",
-  "private": true,
   "workspaces": [
     "packages/*"
   ],
