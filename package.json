@@ -1,0 +1,17 @@
+{
+  "name": "detritus-client-monorepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "packages/detritus-client/lib/index.js",
+  "types": "packages/detritus-client/lib/index.d.ts",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

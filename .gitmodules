@@ -1,0 +1,15 @@
+[submodule "packages/detritus-client"]
+	path = packages/detritus-client
+	url = https://github.com/rokibulislaam/detritus-client.git
+[submodule "packages/detritus-client-rest"]
+	path = packages/detritus-client-rest
+	url = https://github.com/rokibulislaam/detritus-client-rest.git
+[submodule "packages/detritus-client-socket"]
+	path = packages/detritus-client-socket
+	url = https://github.com/rokibulislaam/detritus-client-socket.git
+[submodule "packages/detritus-utils"]
+	path = packages/detritus-utils
+	url = https://github.com/rokibulislaam/detritus-client-utils.git
+[submodule "packages/detritus-rest"]
+	path = packages/detritus-rest
+	url = https://github.com/rokibulislaam/detritus-rest.git
