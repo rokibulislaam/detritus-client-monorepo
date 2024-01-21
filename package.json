@@ -1,5 +1,5 @@
 {
-  "name": "detritus-client-monorepo",
+  "name": "@rokibulislaam/detritus-client-monorepo",
   "version": "1.0.0",
   "description": "",
   "main": "packages/detritus-client/lib/index.js",
